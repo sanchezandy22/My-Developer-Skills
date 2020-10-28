@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    margin: 5px;
+    flex-direction: column;
+    min-height: 100vh;
+    border: 5px solid grey;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    background-color: #94c47e;
+    color: #ffffff;
+    padding: 10px;
+    text-transform: uppercase;
+    font-family: helvetica;
+}
